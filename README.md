@@ -2,23 +2,33 @@
 
 **Founder & Head of Architecture · Innovative Access Consultants**
 
-I connect business operations, software, and people to build systems that teams can understand, trust, and carry forward.
+I bring an operator’s perspective to software: understand how work actually gets done, then build systems people can use, trust, and improve.
 
-At [IAC](https://iac-ops.com), I work on turning complicated processes into practical tools: clearer workflows, connected information, and less dependence on the person who happens to know how everything works.
+At [IAC](https://iac-ops.com), I connect business operations, software, and people to turn complicated processes into practical tools and clearer decisions.
 
-## What I’m building
+## From the field to the system
 
-- **Business software** shaped around the decisions and daily work it needs to support.
-- **Automation and integrations** that reduce repetitive work and keep information moving between systems.
-- **Applied AI and data workflows** that help people understand a problem, make a decision, or complete a task.
+My career began in scaffolding and the skilled trades, then grew into operations and sales leadership. That experience shapes what I look for in technology: workflows that reflect the real work, information people can act on, and teams equipped to take ownership.
+
+My work has included sales workflow automation using **n8n and API integrations**, enterprise CRM architecture, and sales intelligence design. Earlier **Excel/VBA** work helped develop the logic and data thinking I now bring to connected systems.
+
+## What I’m building at IAC
+
+- **Business software** around the decisions and daily work it needs to support.
+- **Automation and integrations** that reduce repetitive steps and connect information across systems.
+- **Applied AI and data workflows** that help people understand problems, make decisions, and complete useful work.
 
 ## How I work
 
-I start with the operating problem: who needs to do what, what is getting in the way, and what a useful result looks like. From there, I care about clear ownership, manageable delivery steps, tested changes, and documentation that makes the next handoff easier.
+Start with the operating problem. Establish clear ownership. Deliver in manageable steps. Test the changes, document the decisions, and make the next handoff easier.
 
 **Shared standards, separated context.** Consistent engineering practices belong across the work; client information stays within its agreed boundaries.
 
-My goal is to build useful software and help the people using it become more capable.
+The goal is useful software and people who become more capable through using it.
+
+## Build What Lasts
+
+I also write about leadership and developing organizations that can function without relying on one person for every answer. My *Build What Lasts* leadership series connects that thinking to practical frameworks, decision-making, and team capability. I share that work on [LinkedIn](https://www.linkedin.com/in/lucas-james-oliver/).
 
 ---
 
