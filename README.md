@@ -22,4 +22,4 @@ My goal is to build useful software and help the people using it become more cap
 
 ---
 
-[Explore IAC](https://iac-ops.com) · [IAC on GitHub](https://github.com/iac-ops-llc) · [Get in touch](mailto:lucas@iac-ops.com)
+[Explore IAC](https://iac-ops.com) · [LinkedIn](https://www.linkedin.com/in/lucas-james-oliver/) · [IAC on GitHub](https://github.com/iac-ops-llc) · [Get in touch](mailto:lucas@iac-ops.com)
